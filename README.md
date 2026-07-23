@@ -2,9 +2,7 @@
 
 <div align="center"><br>
   <a href="https://github.com/natana-oliveira">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=natana-oliveira&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=natana-oliveira&layout=compact&langs_count=7&theme=radical"/>
-</div><br>
+ </div><br>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Nati-Android" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-original.svg">&nbsp;&nbsp;&nbsp;&nbsp;
